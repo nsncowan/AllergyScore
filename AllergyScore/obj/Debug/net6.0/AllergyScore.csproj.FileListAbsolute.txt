@@ -1,0 +1,12 @@
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.csproj.AssemblyReference.cache
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.AssemblyInfoInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.AssemblyInfo.cs
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.csproj.CoreCompileInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\bin\Debug\net6.0\AllergyScore.deps.json
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\bin\Debug\net6.0\AllergyScore.dll
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\bin\Debug\net6.0\AllergyScore.pdb
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.dll
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\refint\AllergyScore.dll
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.pdb
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\ref\AllergyScore.dll
