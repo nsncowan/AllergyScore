@@ -10,3 +10,6 @@ C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\refint\AllergyScore.dll
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.pdb
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\ref\AllergyScore.dll
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\bin\Debug\net6.0\AllergyScore.exe
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\bin\Debug\net6.0\AllergyScore.runtimeconfig.json
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore\obj\Debug\net6.0\AllergyScore.genruntimeconfig.cache

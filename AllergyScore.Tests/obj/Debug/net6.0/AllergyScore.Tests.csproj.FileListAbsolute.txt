@@ -99,3 +99,6 @@ C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\obj\Deb
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\obj\Debug\net6.0\AllergyScore.Tests.pdb
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\obj\Debug\net6.0\AllergyScore.Tests.genruntimeconfig.cache
 C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\obj\Debug\net6.0\ref\AllergyScore.Tests.dll
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\bin\Debug\net6.0\AllergyScore.deps.json
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\bin\Debug\net6.0\AllergyScore.runtimeconfig.json
+C:\Users\nsnco\OneDrive\Desktop\AllergyScore.Solution\AllergyScore.Tests\bin\Debug\net6.0\AllergyScore.exe
